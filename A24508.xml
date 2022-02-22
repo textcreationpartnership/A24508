@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christian charity, or, Seasonable advice to a friend communicated by letter to a young gentleman, his kinsman, to perswade him to a virtuous course of life / by P.A. Gent., author of the New-years gift, or Advice to a Godson.</title>
+            <author>P. A.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24508</idno>
+            <idno type="STC">Wing A21</idno>
+            <idno type="STC">ESTC R13152</idno>
+            <idno type="EEBO-CITATION">12934521</idno>
+            <idno type="OCLC">ocm 12934521</idno>
+            <idno type="VID">95746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 730:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christian charity, or, Seasonable advice to a friend communicated by letter to a young gentleman, his kinsman, to perswade him to a virtuous course of life / by P.A. Gent., author of the New-years gift, or Advice to a Godson.</title>
+                  <author>P. A.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by J. Wells ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95746:1" rendition="simple:additions"/>
+            <p>
+               <hi>Chriſtian Charity,</hi> OR, <hi>Seaſonable Advice to a Friend.</hi> Communicated by Letter to a young Gentleman, his Kinſman, to perſwade him to a Virtuous Courſe of Life.</p>
+            <q>
+               <p>Wiſdom that is hid, and Treaſure that is hoarded up, what Profit is in them both?
+<bibl>
+                     <hi>Eccleſ. 20.30.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>To Reprehend well, hath been ſaid to be the hardeſt, yet the moſt neceſſary Part of Friend<g ref="char:EOLhyphen"/>ſhip;</hi> — <q>And a word ſpoken in due Sea<g ref="char:EOLhyphen"/>ſon, how good is it? <bibl>ſaith <hi>Solomon, Prov. 15.23.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <q>
+               <lg>
+                  <l>Quicquid pracipies esto brevis—</l>
+                  <l>Horace de arte poet.</l>
+               </lg>
+            </q>
+            <q>
+               <l>Nec omnia, nec nihil.</l>
+            </q>
+            <p>
+               <hi>By</hi> P. A. <hi>Gent. Author of the</hi> New-years-gift, <hi>or Advice to a Godſon.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>J. Wells</hi> in <hi>London-houſe-<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> St. <hi>Paul's</hi> 16<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:95746:2"/>
+            <pb facs="tcp:95746:2"/>
+            <head>The PREFACE.</head>
+            <p>IT being ſome years ſince, that the following Diſcourſe, (a great part of it) was ſent to a young Gentleman of a great Eſtate, my Kinſ<g ref="char:EOLhyphen"/>man, by way of Friendly Advice, which I hope was not altogether unuſeful to him; and now in hopes it may be uſeful to others in the like Circumſtances. I have thought fit to Print the ſame with ſome Addi<g ref="char:EOLhyphen"/>tions, being animated thereunto by the Conſiderations following, <hi>viz.</hi>
+            </p>
+            <p>That (as one ſaith) It is every Man's Duty to make himſelf profitable to Mankind, if he can to many, if not to fewer, if not ſo neither, yet to his Neighbour, but however to himſelf; and moſt uſeful even to all Man<g ref="char:EOLhyphen"/>kind, and to the height of thoſe excellent Principles, which all the ſober and ſerious Men, ſince the World began, have juſtified and applauded; according as a late worthy Author expreſſeth himſelf in Verſe.</p>
+            <q>
+               <l>'Tis not my buſineſs to my ſelf to live,</l>
+               <l>There's yet a nobler end, at which I drive.</l>
+               <l>The Oar that's treaſur'd up, is ſure abus'd,</l>
+               <l>And might as well not be, as not be us'd.</l>
+            </q>
+            <p>Suitable hereunto is that excellent ſaying of the Son of <hi>Syrach,</hi> Ecclus. <hi>24.38. Behold I have not laboured for my ſelf only, but for all them that ſeek Wiſdom.</hi>
+            </p>
+            <p>And conſidering, that the honeſt Heathen <hi>Socrates</hi> is ſaid to have made it his buſineſs in all Places wherever he came, to Inſtruct Men in Moral Pbiloſophy, Virtue, and Goodneſs; and even all virtuous Mentake a de<g ref="char:EOLhyphen"/>light to communicate to others what they have great eſteem of themſelves, and would willingly make others as happy as themſelves. But more e<g ref="char:EOLhyphen"/>ſpecially, I having read in our Chronicles, That one <hi>Thomas Scroop, A<g ref="char:EOLhyphen"/>lias Bradly,</hi> of the Noble Family of the <hi>Scroops,</hi> in the Reign of K. <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the <hi>7th.</hi> who having lived a Strict and Religious Life in a ſecular State, and after being made a Biſhop, and then was ſent an Ambaſſa<g ref="char:EOLhyphen"/>dour abroad; yet towards the latter end of his days, thought it no Diſho<g ref="char:EOLhyphen"/>nour to go about barefoot (in <hi>Norfolk</hi> where he lived) teach<g ref="char:EOLhyphen"/>ing Men the Ten Commandments, who, nevertheleſs is ſaid to have lived to the Age almost of <hi>100</hi> Years. All which Great and Hero<g ref="char:EOLhyphen"/>ick Examples have excited me to make this poor Eſſay towards the pro<g ref="char:EOLhyphen"/>moting the ſame good End, the Honour of God, and the good of Men. And al<g ref="char:EOLhyphen"/>though it may be granted that we live in a more knowing Age, then to need to be taught the Ten Commandments, yet it may be much feared that we may yet ſtand in great need of being excited to the Practice of them, and other Chriſtian Duties; and therefore it is my Hopes I may meet with a fa<g ref="char:EOLhyphen"/>vourable Conſtruction of my Intentions in the following Diſcourſe; for in a vitious Age, and a torrent of wickedneſs; its every Man's Duty to endea<g ref="char:EOLhyphen"/>vour to ſtem the Tide, to prevent, if poſſible, the Deſſolation it threatens</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:95746:3"/>
+            <head>The LETTER.</head>
+            <opener>
+               <salute>Dear Couſin,</salute>
+            </opener>
+            <p>OUT of my great Reſpects I have for you, not only in memory of your good Father and Mother (now I hope in a State of Reſt and Peace with God) but alſo my nearneſs of Relation to you.—I have taken the freedom to preſent to your View and Conſideration, thoſe few Maxims, Aphoriſms and wiſe Sayings and Diſcourſes of both <hi>Heathen</hi> Philoſophers, and Chriſtian Divines, and others, which I have taken more eſpecial notice of. For as that wiſe Man, the Son of <hi>Syrach, Ecclus.</hi> 8.8. <hi>Adviſeth us, deſpiſe not</hi> (ſaith he) <hi>the Diſcourſe of the wife, but acquaint thy ſelf with their Proverbs; for of them thou ſhalt learn Inſtruction:</hi> But then we muſt alſo conſider that moral Precepts are learned, not to be repeated but practiſed. Maxims and Doctrins, when well digeſted (as our meat) Convert into Nou<g ref="char:EOLhyphen"/>riſhment, and make the Soul and Mind Healthful and Vigorous, as a late Author telleth us.</p>
+            <p>And, <hi>Couſin,</hi> Conſidering that Tranſient Diſcourſes (as we ſay) many times prove ineffectual and uſeleſs, for want of time to weigh and conſider them, I have made choice of the preſent Method of imparting my Mind to you by Letter, and this with all Reſpects, de<g ref="char:EOLhyphen"/>ference and Affection imaginable.</p>
+            <p>And may I uſe the Words of a Great Prince of this Nation, once to his Counſel, the Parliament; <hi>Ajove principium,</hi> let me begin with God, that <hi>Optimus &amp; Maximus,</hi> the beſt, tho greateſt of all Beings (as the <hi>Heathens</hi> uſed to ſtile him) our great Lord and Bene<g ref="char:EOLhyphen"/>factor, which cauſed the Son of <hi>Syrach,</hi> aforeſaid, to ſay, <hi>Ecclus.</hi> 10.24. <hi>Great men, judges, poten<g ref="char:EOLhyphen"/>tates ſhall be honoured; yet there is none of them
+<pb n="2" facs="tcp:95746:3"/>greater then he that feareth the Lord,</hi> and <hi>Ecclus.</hi> 1.11.12. <hi>The fear of the Lord is honour, glory, and glad<g ref="char:EOLhyphen"/>neſs, and a Crown of rejoycing. The fear of the Lord ma<g ref="char:EOLhyphen"/>keth a merry heart, and giveth joy and gladneſs, and a long life.</hi> For to ſpeak truly, <hi>Bonum Corporis eſt ani<g ref="char:EOLhyphen"/>mus, &amp; bonum animi eſt Deus,</hi> (i. e.) The Good of the Body is the Soul and Mind, but the good of the Soul and Mind is God. The Son of <hi>Syrach</hi> again telleth us, <hi>Ecclus.</hi> 31.9, 10. <hi>Bleſſed is the rich that is found without blemiſh, who is he, and we will call him bleſſed? For won<g ref="char:EOLhyphen"/>derful things hath he done among his People, who hath been tried, and thereby been found perfect; then let him glory, who might offend, and hath not offended, and might have done Evil, and hath not done it.</hi> For the great Philoſo<g ref="char:EOLhyphen"/>pher, <hi>Ariſtotle,</hi> tells us, that Felicity is an Aſſemblage of three things, really beneficial. 1. That which de<g ref="char:EOLhyphen"/>pends upon the Soul, <hi>viz.</hi> The Endowments of the Mind, that is Wiſdom and Integrity. 2ly, That which depends, or proceeds from the Body, as Health, Strength, Beauty, and the like. <hi>3ly,</hi> That which is grounded upon outward Conveniences, as Riches, No<g ref="char:EOLhyphen"/>bility, Reputation, and the like, that depend upon For<g ref="char:EOLhyphen"/>tune; yet, (ſaith he) Vice is ſufficient of it ſelf to ren<g ref="char:EOLhyphen"/>der life miſerable, though accompanied with all Cor<g ref="char:EOLhyphen"/>poral Conveniences. No wonder therefore that <hi>Me<g ref="char:EOLhyphen"/>trocles</hi> the Philoſopher ſaid, That a great Eſtate was a miſchievous thing to one that did not know how to manage it wiſely. As alſo that honeſt <hi>Socrates</hi> made this Obſervation, That he could not roſolve the Caſe, whether a Rich Man was happy until he ſaw how he had ſpent his Eſtate. And the <hi>Spaniſh</hi> Critick hath this excellent Paſſage, at the top of the Hill of all the Vir<g ref="char:EOLhyphen"/>tues, ſat Prudence as a Queen, reaching out in her Hand a precious Crown, with this Inſcription; for him who knows a Mediocrity in Wealth.</p>
+            <p>
+               <pb n="3" facs="tcp:95746:4"/>
+And <hi>Antiſthenes</hi> the Philoſopher uſed to ſay, That vertuous and good Things were Amiable, and Vicious and bad Things were Deformed and Ugly, and that it was the ſame thing to be a Gentleman, and to be a Man of Virtue; (Gentlemen therefore of of all others ſhould ſtudy to be amiable and lovely, and hate Deformity) And that Virtue was a Weapon that a Man could never be diſarmed of. Now Sobriety, (ſaith Monſieur <hi>Charron</hi>) is a way and kind of progreſs to other Virtues, and which is not painful to any but Fools and Madmen, according to that ſaying, <hi>ſalubrium Conſiliorum parens Sobrietas.</hi> Now, Sir, it is to be obſerved that the firſt ſtep to Vir<g ref="char:EOLhyphen"/>tue, <hi>eſt Bellum Indicere vitiis,</hi> &amp;c. To enter into a War with our ſenſual Appetites: And accordingly the late Reverend Dr. <hi>Tillotſon,</hi> when Dean of <hi>Canterbury,</hi> uſed to cite that Saying, <hi>Magna pars virtutis eſt bene meratus venter</hi> (i. e.) That a well governed Appetite was a principal part of Virtue, and accordingly the ſaid before mentioned wiſe Man, the Son of <hi>Syrach,</hi> adviſeth us <hi>Ecclus.</hi> 18.30, 32.) <hi>Go not after thy luſts but refrain thy ſelf from thine Appetite; take not pleaſure, in much good chear.</hi> And venerable <hi>Bede</hi> adviſed Men to deal with Pleaſures, as they did with Hony, to taſt only a little of it with the tip of the Finger. And ac<g ref="char:EOLhyphen"/>cordingly it was the ſaying of a Noble <hi>Spaniard. Major ſum, &amp; ad Majora natus, quam ut ſim mancipium Corpo<g ref="char:EOLhyphen"/>ris mei,</hi> (i.e.) I am greater, and born to greater and more noble ends, then to be a Servant, or Slave to my body.</p>
+            <p>And <hi>Priſcus</hi> an excellent Philoſopher tells us, That they who are broken with Pleaſures, and indulging their Carcaſſes, grew headſtrong, and at laſt became haters of Reaſon and Philoſophy; wherefore he put a reſtraint upon himſelf in many things. And accor<g ref="char:EOLhyphen"/>dingly, upon one Saying to <hi>Menedemus</hi> the Philoſopher, that there could be no greater Good then for a Man to enjoy whatever he deſired, the Philoſo<g ref="char:EOLhyphen"/>pher
+<pb n="4" facs="tcp:95746:4"/>anſwered; a much greater happineſs for a Man to deſire no more than is needful. Accordingly <hi>Socra<g ref="char:EOLhyphen"/>tes</hi> Triumphed, and ſaid, How many things are there in the World of which I have no need? And that Rich<g ref="char:EOLhyphen"/>es, Nobility, and Birth, were ſo far from deſerving to be valued and eſteemed, that they were rather the uſual Fountain of all Miſchief. And as to Plea<g ref="char:EOLhyphen"/>ſure, that it was a greater Pleaſure to conquer inor<g ref="char:EOLhyphen"/>dinate ſenſual pleaſure, then to enjoy it. One ſaid not Improperly, that Pleaſure and Deſtruction are near of kin, but when Inordinate, they were Brothers;</p>
+            <p>And further, as to Pleaſures, <hi>Seneca</hi> tells us, if we would have Pleaſure, conſider, wherein it conſiſts, <hi>viz.</hi> in a knowing and virtuous Mind, and according<g ref="char:EOLhyphen"/>ly labour to obtain that, but this is a Work of Labour and Induſtry. Yet certainly its worth the while to purchaſe that Good which brings all other along with it; and that they are the moſt miſerable of all Mor<g ref="char:EOLhyphen"/>tals, who deliver themſelves up to their Pallates and Luſts. If it be Pleaſure in this World that you covet after, why do you not give it your ſelves in the Bleſ<g ref="char:EOLhyphen"/>ſings of a well compoſed and virtuous Mind, that's a Pleaſure, Subſtantial, Sincere, Unchangeable, and Untainted. <hi>Socrates</hi> adviſed thoſe who were Slaves to ſenſual Pleaſure to pray to the Gods for better Maſters. And as to ſenſual Pleaſure, <hi>Seneca</hi> ſaith, it is a mean ſervile Tranſitory tireſome ſickly thing, the good of the Bel<g ref="char:EOLhyphen"/>ly, and only the Felicity of Bruits. And that he who knows the Irregularities of his own depraved Affecti<g ref="char:EOLhyphen"/>ons, had need keep a perpetual Sentinel upon them, as well as a Prince among turbulent Subjects, or elſe he will not be ſafe. Our Chriſtian Warfare may be therefore ſaid to be <hi>Dura pugna,</hi> a hard Task, but this is as ſure, that <hi>Solus Amor neſcit diſſicultates,</hi> (i. e.) the Love of God knows no difficultys; and when alſo we have under the Goſpel the aſſurance that God will enable us by his
+<pb n="5" facs="tcp:95746:5"/>Grace and Spirit, which he hath promiſed to ſuch as unfeignedly beg it of him. And (as a late Author tells us,) That that may be called ours, which we may have for asking. Let us not then pretend to Impoſſibility of our Victory in our Chriſtian Warfare, when even Na<g ref="char:EOLhyphen"/>ture went ſo far with honeſt <hi>Socrates,</hi> that it made him one of an excellent, moſt virtuous and obliging Tem<g ref="char:EOLhyphen"/>per, who was naturally of an ill, crabbed, and ſour Diſpoſition. What a ſhame therefore will it be, that we Chriſtians ſhould not be of the moſt, ſweet Charm<g ref="char:EOLhyphen"/>ing, Amiable, obliging Tempers of all other People in the whole World, far from all Sedition and Rebellion, <hi>&amp;c.</hi> And this was truly verified in the Primitive Times, when that Holy Father <hi>Lactantius</hi> ſaid, bring me a proud Man, a malicious, a covetous Man; and by Chri<g ref="char:EOLhyphen"/>ſtianity I will quite alter and change him, make him Humble, Meek, Patient, Friendly, a liberal Man. And here may I make mention of but one inſtance of many in this kind in our own Nation, (paſſing by that other of the late Pious and Honeſt Judge <hi>Hales</hi> in our days,) <hi>viz.</hi> that worthy Chriſtian, Sir <hi>John Fineux</hi> a Judge in K. <hi>Hen.</hi> 8th's Reign, of whom it is ſaid, he hated nothing but what was Diſhoneſt, he feared nothing but what was Ignoble, and loved nothing but what was Juſt. And that he was, A moſt prudent Man, of a Noble Stock and Family, Fa<g ref="char:EOLhyphen"/>mous for Juſtice, adorned with Piety, Eminent for Humanity and good Nature, abounding in Charity; and that he was alſo entire in his Devotion to that Sa<g ref="char:EOLhyphen"/>cred thing, called, Friendſhip, that Bliſs on this ſide Heaven, made up of Peace and Love, who alſo is ſaid to have prayed ſo much Morning, Noon, and Night, as if he never ſtudied. And he would ſay, to day I have not lived, when he had done nothing, whoſe ex<g ref="char:EOLhyphen"/>cellent Motto alſo was, <hi>Miſericordiam Domini Cantabo in Eternum,</hi> (i. e.) I will ſing of the Mercies of God to Eternity. Indeed that late Learned Divine Dr. <hi>Stil<g ref="char:EOLhyphen"/>lingfleet,</hi>
+               <pb n="6" facs="tcp:95746:5"/>when Dean of St. <hi>Paul's,</hi> telleth us, That Man is a Maſs of Vanity and Diſorder, naturally weak in his Judgment, wilful in his Paſſions, uncertain in his beſt Reſolutions, violent in his worſt Inclinations, ſtrangely bent upon what tends to his Ruin, and hard<g ref="char:EOLhyphen"/>ly brought to underſtand and purſue his trueſt Inter<g ref="char:EOLhyphen"/>eſt. No wonder, then that <hi>Diogenes</hi> ſaid, that moſt Men are within a Finger of Madneſs; how great need have they then of the Inſtructions of the Chriſtian Religion? and the Grace of the Goſpel, to reform them? Learn<g ref="char:EOLhyphen"/>ing Inſtruction, therefore (ſaith one) is Sobriety to the Young, Conſolation to the Old, Riches to the Poor, and an Ornament to the Rich. And to one that ſaid to <hi>Diogenes,</hi> that he was not ſit for the Study of Philoſo<g ref="char:EOLhyphen"/>phy, he anſwered him, why do'ſt thou then live? If thou takeſt no care to live well? For (as an other ſpeaks) a Man may as ſoon be well without Health, as hap<g ref="char:EOLhyphen"/>py without Virtue and Goodneſs. Nothing there<g ref="char:EOLhyphen"/>fore (as the Son of <hi>Syrach</hi> ſpeaks) <hi>Ecclus.</hi> 28.14. <hi>Is ſo much worth as a Mind well Inſtructed. Eger animus ſem<g ref="char:EOLhyphen"/>per Errat,</hi> (i.e.) a ſickly and unſound Mind always Errs and Miſtakes; for the Mind of Man hath its Maladys, as well as the Body. And Dr. <hi>Sibs,</hi> long ſince in one of his Printed Sermons, informs us, That whoſoever is Corrupt in Faith, is Corrupt in Obedience in that de<g ref="char:EOLhyphen"/>gree, and that evil Opinions did breed evil Life. And therefore I may add, that it is requiſite for a Man to have an humble, ſober ingenious, temperate, teacha<g ref="char:EOLhyphen"/>ble Mind and Underſtanding, as well as a Tempe<g ref="char:EOLhyphen"/>rate and Chaſt Body. According to that Saying, <hi>quid prodeſt vinum non bibere &amp; ira inebriari?</hi> (i. e.) What is a Man the better to be Temperate, as to Meat and Drink, and yet to be an Hypocrite, entoxicated with Spiritual Pride, Paſſion, Self-conceit, and Malice? A Philoſopher, (ſaith <hi>Plato</hi>) muſt have a natural Affecti<g ref="char:EOLhyphen"/>on to Truth, and an Averſion from receiving Falſhood;
+<pb n="7" facs="tcp:95746:6"/>as alſo to be very Temperate and Virtuous, according as the wiſe Man, <hi>Ecclus.</hi> 27.9. Saith, <hi>The birds will reſort unto their like, and ſo will truth return unto them who practice in her.</hi>
+            </p>
+            <p>Knavery, (ſaith <hi>Epictetus the Philoſopher</hi>) proceeds from vitious Principles, and the Corruption of the Mind, and alſo that Diffimulation and Trick is what no Circum<g ref="char:EOLhyphen"/>ſtance can render excuſable to a good Mind, an honeſt Man. Simplicity and Truth, (ſaith <hi>Seneca</hi>) is a great and wiſe thing, but Cunning and Deceit is fooliſh and mean. And that Honeſty is that which raiſes a Man to Eſteem; as poſſeſſing a Good that deſerves the grea<g ref="char:EOLhyphen"/>teſt Applauſe of all Men, and he cries out, oh! what a Miſchief is too much Cunning? Accordingly, it was the Opinion of moſt of the Philoſophers, that Honeſty was the chiefeſt Good, yea, the only Good; and that when a Man had once loſt his Integrity, he became as a noxious Animal, ſit to be abandoned by all, yea, hunt<g ref="char:EOLhyphen"/>ed out of the World. Now, what will then become of our ſharp Men Without Honeſty? ſit to make Devils of?</p>
+            <p>A Man's Mind ſhould (ſaith <hi>Seneca</hi>) be erected alſo a<g ref="char:EOLhyphen"/>bove the things of, the World, <hi>O quam Contempta res eſt homo, niſi ſupra humana erexcrit,</hi> (i. e.) O What a poor deſpicable thing is Man, except he raiſe his Mind a<g ref="char:EOLhyphen"/>bove the Things of this World! And further, he ſaith, <hi>Quid infelicius eſt quam Amator eſſe &amp; non Dei?</hi> (i.e.) What greater Unhappineſs can there be then to be a Lover, and not of God: And then we may be ſure, <hi>Amor Dei amorem proximi generat,</hi> (i. e.) The Love of God will produce Charity to our Neighbour, and this will bring Peace to the World, and make it a Paradice.</p>
+            <p>In the next place, as to Cuſtom and Habit, which is ſaid to be a ſecond Nature, both <hi>Ariſtotle,</hi> and <hi>Gallen</hi> tell us, That Cuſtom is an aſcititious Nature. To which <hi>Gallen</hi> alſo adds, That a Habit in any thing is a laſting, and hardly diſſolveable Diſpoſition; long Uſe and Exerciſe at laſt become Nature, Cuſtom, (ſaith
+<pb n="8" facs="tcp:95746:6"/>another) is the moſt intollerable Tyrant, and that the greateſt Sin by Cuſtom comes to be accounted as no<g ref="char:EOLhyphen"/>thing. And <hi>Cicero</hi> alſo ſaith, That ſo great is the In<g ref="char:EOLhyphen"/>fection of evil Cuſtom, that the Seeds of Virtue com<g ref="char:EOLhyphen"/>municated to us by Nature, are choaked by it, and Vi<g ref="char:EOLhyphen"/>ces contrary thereto begotten. To which a late wor<g ref="char:EOLhyphen"/>thy Author further adds, That Conſuetude in Sin doth ſo Corroborate Men in Sin, that a vitious Perſon can<g ref="char:EOLhyphen"/>not do well, even if he would, through an inveterate Inclination of Will; Men become ſo addicted to Evil, and ſo averſe and diſaffected to Good, that no Argu<g ref="char:EOLhyphen"/>ments to the contrary weigh with them; they grow ſo alienated by impure Habits, that all Virtue be<g ref="char:EOLhyphen"/>comes diſtaſtful, and Wickedneſs grows a Pleaſure, (which is a woful Caſe indeed) So that much of our Impotency to Good is derived in Truth upon us, from our Earniliarity with Sin. And that every inordinate Deſire, is as a Veſſel without a bottom, that whatever you put into it, preſently runs out, and you can never ſill it.</p>
+            <p>It was excellently Diſcourſed of by the Reverend D. <hi>Tillotſon,</hi> when Dean of <hi>Canterbury,</hi> in a <hi>Lent</hi> Ser<g ref="char:EOLhyphen"/>mon upon <hi>Jer.</hi> 13.23. <hi>Can the Ethiopian change his skin, or the Leopard his Spots,</hi> &amp;c. That it was a difficulty, next to impoſſible, for a Man to conquer an evil Cu<g ref="char:EOLhyphen"/>ſtom and Habit in Sin, and that without a great deal of ſtriving, diligent endeavours, aſſiſted by a great deal of the Grace of God, it could not be conquered and ſubdued. But hence we may learn alſo, how we may make Virtue and Goodneſs eaſie and delightful to us, if he will, by accuſtoming our ſelves to it.</p>
+            <p>In the next place, as to Converſation, to which, Man (being a Sociable Creature) hath naturally a ſtrong Inclination, noble Converſation, (as one calls it) the great Comfort of human Life, concerning which, a late Reverend Author hath given us theſe wiſe Cau<g ref="char:EOLhyphen"/>tions and Advice. Above all, (ſaith he) have a great
+<pb n="9" facs="tcp:95746:7"/>care to ſhun and avoid the Company of wicked Men; for the World is ſo full of them, that one can ſcarce go a ſtep without meeting them; keep your ſelves from them, if you deſire not to ſin, a mad Dog, a Viper ready to burſt with Poiſon, are nothing ſo dangerous.</p>
+            <p>Now as to that noble Converſation of Man and Wife in the Matrimonial State. The <hi>Roman Tacious</hi> tells us, <hi>neque aliud probis quam ex Matrimonia ſolatium eſſe,</hi> (i. e.) That Matrin ony is the choiceſt Comfort of Minds, honeſtly given, according to that ſaying of the Son of <hi>Syrach, Ecclus.</hi> 26.22. <hi>That a harlot ſhall be counted as ſpittle, but a married woman is a tower againſt death to her husband.</hi> And further, <hi>Chap.</hi> 4.23. <hi>Solomon</hi> alſo adviſeth us, <hi>Prov.</hi> 5.19. <hi>Let her be to thee as the loving hind and pleaſant roe. Let her breaſts ſatisfie thee at all times, and be thou always raviſhed with her love.</hi>
+            </p>
+            <p>And may I, Sir, further recommend to you that great Chriſtian Duty of Juſtice and Charity, the Sum of the Law and the Prophets, to do as you would be done un<g ref="char:EOLhyphen"/>to? To give it you in the Words of a Reverend Di<g ref="char:EOLhyphen"/>vine of the Church of <hi>England,</hi> in an excellent Print<g ref="char:EOLhyphen"/>ed Sermon Preached in <hi>London, Nov.</hi> 29. 1684. at a Country Feaſt. The ſhortneſs, (ſaith he) of human Life, and the difficulty and tedioufneſs of Learning, and the Intricacy of Knowledge, and the multiplicity of particular Caſes, Exceptions and Reſtrictions, hath in all Arts and Sciences, recommended the uſefulneſs of ſhort Aphoriſins, of compendious Axioms, of little Summaries, and comprehenſive Abridgments, in which are contained the Subſtance, Pith, and Marrow of Things, and which are as ſo many Poleſtars to direct us in all our Doubts, and as ſo many Clues to guide and extricate us in the Labyrinth of Knowledge, in the va<g ref="char:EOLhyphen"/>riety and Meanders of human Affairs. Accordingly, (ſaith he) our good Lord, our gracious Law-giver, Je<g ref="char:EOLhyphen"/>ſus Chriſt, in condeſcention to our Infirmity, and in Compaſſion to our Weakneſs, has in the Art <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Godly
+<pb n="10" facs="tcp:95746:7"/>living, in this Art of Arts; epitomiſed our Duty, and compriſed in one eaſie and plain Rule, all thoſe nume<g ref="char:EOLhyphen"/>rous, and ſometimes difficult Precepts which are dif<g ref="char:EOLhyphen"/>fuſed, and are more largely commented upon, in the Law and the Prophets, in the ſhort Abridgment ſum<g ref="char:EOLhyphen"/>med up in this Golden Rule, of my Text; <hi>viz. All things whatſoever ye would that Men ſhould do unto you, do ye even ſo to them.</hi>
+            </p>
+            <p>Now in the next place, tranquility of Spirit is ſaid to be the ſoverain Good of Man, and to this Innocency and good Conſcience are neceſſary. Accordingly was the Wiſe and Chriſtian Advice, which the Famous L. <hi>Bur<g ref="char:EOLhyphen"/>leigh</hi> in Q <hi>Elizabeth</hi>'s Days, is ſaid, gave to his Son; Labour, (ſaith he) to keep a good Conſcience for thy Comforter; for he that is disfurniſhed thereof, hath fear for his Bedfellow, care for his Companion, and the ſting of Guilt for his Torment. And indeed it hath been obſerved for an undoubted Truth, that true Reli<g ref="char:EOLhyphen"/>gion is the ſtrongeſt Exciter, and Spur to the Virtue of Integrity and Honeſty, fixing and engraving them up<g ref="char:EOLhyphen"/>on the Heart of Man, making ſuch deep Impreſſions on the Soul, that a Man ſhall even prefer Death to the foregoing of his Duty; (for as it hath been ſaid truly) That it is not enough to be Juſt, and where there is Ho<g ref="char:EOLhyphen"/>nour to be got, but to continue ſo in defiance of In<g ref="char:EOLhyphen"/>famy and Danger, is that approves a Man's Fidelity. In truth, (as Sir <hi>Francis Bacon</hi> uſed to ſay,) That Proſpe<g ref="char:EOLhyphen"/>rity and Riches was the Bleſſings of the Old Teſta<g ref="char:EOLhyphen"/>ment, but Affliction was the Bſeſſing of the New, the Croſs was the way to the Crown. There are (it is moſt certain) Difficulties in Religion and Virtue, eſpe<g ref="char:EOLhyphen"/>cially at firſt, and that the aſcent up Virtue's Hill, is hard and tedious, eſpecially in the beginning and entrance into our Chriſtian Warfare and Race, but the Serenity and fair Proſpect at the top, is ſufficient to invite to the labour of undertaking it, the Reward being no leſs then an eternal weight of Glory in the higheſt Heavens. As
+<pb n="11" facs="tcp:95746:8"/>the Apoſtle St. <hi>Paul</hi> calls it, 2 <hi>Cor.</hi> 4.17. And what Man in his Wits, and not a Madman, but would prefer an Eternity of Happineſs before a few ſhort-liv'd tranſito<g ref="char:EOLhyphen"/>ry Pleaſures of this frail Life here in this World?</p>
+            <p>I know, Sir, your Religious and Virtuous Education hath been ſuch, that you are not a ſtranger to moſt of the things I have now preſented to you; but this is moſt true alſo, that wiſe Men have need ſometimes to be put in mind of what they know already. Pardon, Sir therefore my Attempt of Kindneſs and Affection to you, who am,</p>
+            <closer>
+               <salute>
+                  <hi>Dear Couſin,</hi> 
+               </salute> 
+               <signed>Your Affectionate Kinſman And very humble Servant.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>May</hi> 13. <hi>Anno</hi> 1696.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="addition">
+            <p>WHY may I not now further add to my ſaid Let<g ref="char:EOLhyphen"/>ter? What <hi>Ariſtotle</hi> ſaith of Riches, That one of the beſt things that belong to Riches, is to get the knowledge of them, how little they are good for? How unneceſſary? How dangerous? How deſtructive in moſt to the true Felicity? And what <hi>Plato</hi> alſo telleth us, That it is beſt for a Man not to be Rich, for his Riches will enable him to compaſs his Deſires, and thoſe are uſually evil; therefore I ſhall never grant, (ſaith he) a rich Man to be truly happy, except he be truly good, but to be extremely good, and extremely rich, is im<g ref="char:EOLhyphen"/>poſſible; no wonder then at that ſmart ſaying, (alluding to our Saviour's Words) That it was as rare a thing to find a Veniſon Paſty in a poor Man's Cubbard, as to find a rich Man in the Kingdom of Heaven. And <hi>Seneca</hi> ſaith, That God could not traduce theſe things of the World, which Men ſo much deſire, more, then by
+<pb n="12" facs="tcp:95746:8"/>taking them from the beſt of Men, and giving them to the worſt. And indeed it hath accordingly been the Obſervation of wiſe Men. That Wealth hath ſeldom been the Portion, and never the Mark to diſcover good Men. But that God Almighty, who diſpoſeth all things wiſely, hath of his abundant goodneſs deny'd it, (he only knows why) to many whoſe minds he hath enriched with the greater Bleſſings of Knowledge and Virtue, as the faireſt Teſtimony of his Favour and Love to them, according to that ſaying. <hi>Amor Ingenii nunquam divitem facit</hi> (i. e.) That an honeſt and ingeni<g ref="char:EOLhyphen"/>ous Mind never makes a Man rich with the Wealth of this World, (a lively Inſtance whereof We have had in our Age, in that excellent Perſon, Sir <hi>Francis Bacon,</hi> L. <hi>Virolam,</hi> who was accounted by Sir. <hi>Julius Caſar,</hi> (in whoſe Family he was in his low Eſtate, as a Burthen to it) and my L. <hi>Brook,</hi> (as is ſaid) denied him a Bottle of Small beer) And in truth, ſuch noble Souls are above thoſe tranſitory and fading Riches of the World, and regard them not, and have little need of them. As it is ſaid of the Gods, by the Philoſophers, and that truly; That they want the feweſt things, ſo it may be ſaid of good and virtuous Men, who are moſt like them, they content themſelves with a few things. According to the Advice of the Apoſtle St. <hi>Paul,</hi> 1 <hi>Tim.</hi> 6.7, 8. <hi>Having food and rayment, let us be therewith content; for we brought nothing into this world, and it is certain we can car<g ref="char:EOLhyphen"/>ry nothing out.</hi> And it hath been an Obſervation of wiſe Men, That there is no Heart ſo poor and barren, as that which is ſet upon Riches and Abundance, like to the ground where Gold and precious Stones are, is moſt Barren; for in truth, Virtue and Goodneſs is the true Riches, and yields the fulleſt Satisfaction to the Soul in this Life, and then ſits and Capacitates it for, and thereby enſureth to it eternal Felicity in the next Life. And it hath been obſerved to be a thing of great
+<pb n="13" facs="tcp:95746:9"/>difficulty to poſſeſs the Riches of this World, and not to have out Hearts ſet upon them, according to that ſaying, <hi>Ardua res eſt opibu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non tradere mores.</hi> (i.e.) Its a hard thing not to have our Minds ſet upon Riches.</p>
+            <p>Alſo, why may I not here mention that excellent Advice which that Stateſman, <hi>Machiavel</hi> gave to all Princes and Republicks, who would keep themſelves from Ruine; above all things to preſerve the Rites of their Religion uncorrupt, and to maintain it venerable; for that there was no ſurer ſign of a Countries Deſtruction, then to ſee in it a Contempt of Divine Worſhip, unto which I think may be added, That to keep up Religion, and the Worſhip of God venerable, it is neceſſary that the Credit and Reputation of the Clergy be kept up alſo. And it had been long ſince obſer<g ref="char:EOLhyphen"/>ved, that the City <hi>Troy</hi> loſt their Gods before their City.</p>
+            <p>As alſo that excellent Diſcourſe of that Reverend and Pious Man, <hi>Philip Melancthon,</hi> to our <hi>Engliſh</hi> Ambaſſadour in <hi>Germa<g ref="char:EOLhyphen"/>ny,</hi> Sir <hi>Richard Morriſon,</hi> in the beginning of the Reformation, <hi>viz.</hi> That the Reformation of Hearts ſhould go before that of the Churches, and that Men ſhould try that on their own Hearts, which they deſign upon the Church; for that Deformity within would ſoon betray the Pretenders to Reformation to ſuch private Deſigns as muſt needs hinder the publick Good.</p>
+            <p>And alſo that prudent Caution of a late Reverend Divine of the Church of <hi>England,</hi> Dr. <hi>Cudworth,</hi> in his Sermon at <hi>Lincoln</hi>'s-<hi>inn, June</hi> 1664. <hi>viz.</hi> That if there be not a due and timely regard had to the Commands of Lawful Authority in indifferent things, and to or<g ref="char:EOLhyphen"/>der Peace and Unity in the Church, it may be eaſily foreſeen that the Reformed part of <hi>Chriſtendom</hi> will at length be brought firſt to Confuſion, by crumbling into infinite Sects and Diviſions, and then to utter Ruine; all which concerns us Proteſtants to conſider, Pru<g ref="char:EOLhyphen"/>dence being accounted next to Prophecy, if we obſerve alſo what Sir <hi>Edwin Sands,</hi> long ſince hath told us in his <hi>Europa Speculum,</hi> Speaking of the Romaniſts, who have the Pope as a com<g ref="char:EOLhyphen"/>mon Father, Adviſor, and Conductor to them all, to reconcile their Enmity's, to decide their Differences, and to unite them toge<g ref="char:EOLhyphen"/>ther, which is their Glory, as alſo upbraiding to their Enemies, (meaning the Proteſtants) who are on the other ſide as ſevered, or rather ſcattered Troops, each drawing a diverſe way, <hi>&amp;c.</hi> And now, may I conclude, and ſay? I pray God preſerve my Mother the Church of <hi>England,</hi> and grant that ſhe may never renounce her inte<g ref="char:EOLhyphen"/>grity and honeſt Principles to preſerve her Religion. And her Children may alſo live in the Fear &amp; Love of God, without which our Refor<g ref="char:EOLhyphen"/>med Chriſtianity will be no Advantage to us. And O that this poor Eſſay, (in Addition to my New Years Gift, or Advice to my Godſon (may be any way uſeful, eſpecially to caution all Perſons to the avoid<g ref="char:EOLhyphen"/>ing thoſe moſt dangerous Rocks of Hypocriſie, inordinate Love of <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
